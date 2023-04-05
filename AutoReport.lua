@@ -1,5 +1,7 @@
 --[[
 CREDIT dotgg
+https://scriptblox.com/script/Universal-Script-fixed-autoreport-6783
+
 
 getgenv().autoreportcfg = {
     Webhook = "", -- you can leave it empty if u want ingame notifs 

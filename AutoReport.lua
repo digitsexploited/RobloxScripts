@@ -1,4 +1,4 @@
---[ 
+--[[
 CREDIT dotgg
 
 getgenv().autoreportcfg = {
@@ -55,7 +55,7 @@ words = {
     ['dizzy'] = 'Offsite Links',
 }
 
-]--
+]]--
 
 if not game:GetService('ReplicatedStorage'):FindFirstChild('DefaultChatSystemChatEvents') or not game:GetService('ReplicatedStorage'):FindFirstChild('DefaultChatSystemChatEvents'):FindFirstChild('OnMessageDoneFiltering') then return end
 DCSCE = game:GetService('ReplicatedStorage'):FindFirstChild('DefaultChatSystemChatEvents')

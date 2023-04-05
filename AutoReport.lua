@@ -2,7 +2,7 @@
 CREDIT dotgg
 
 getgenv().autoreportcfg = {
-    Webhook = "https://discord.com/api/webhooks/1093227147306471654/tpBGqKj-k-Mh1hLIoMJ9a39jf-tzQPTHbCs2n3LnLPwLIlc8EoNIGxVaYu0RsqJeCn8d", -- you can leave it empty if u want ingame notifs 
+    Webhook = "", -- you can leave it empty if u want ingame notifs 
     autoMessage = { -- whispers to people if they get autoreported
        enabled = false,
        Message = '',
